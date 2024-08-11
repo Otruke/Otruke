@@ -17,6 +17,7 @@ With over 5 years of experience, I specialize in developing and maintaining scal
 - **IT Networking:** Zigbee, Wi-Fi, LoRaWAN, BLE
 - Strong knowledge in Blockchain technology and cybersecurity best practices.
 - Agile Methodology
+- Scrum Master
 
 ## 🌟 Expertise
 
@@ -39,3 +40,5 @@ With over 5 years of experience, I specialize in developing and maintaining scal
 ## 📫 Let's Connect!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on exciting projects. I'm always open to new opportunities and eager to contribute to innovative projects.
+[otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com)
+[Linkedin](https://www.linkedin.com/in/rufus-kehinde64)
