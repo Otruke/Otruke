@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Otolorin Rufus Kehinde
-**Email**: [otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com)  
-**LinkedIn**: [Rufus Kehinde](https://www.linkedin.com/in/rufus-kehinde64)
+**Email**: [otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rufus-kehinde64)
 
 # 💫 About Me:
 🚀 A passionate Full Stack Software Engineer and IT Specialist<br><br>With over 6 years of experience, I specialize in developing and maintaining scalable web, mobile, and system applications. My expertise spans across IoT, automation, cybersecurity, and cutting-edge technologies. I am passionate about leveraging my skills to create innovative solutions that drive significant business growth.
@@ -52,8 +51,7 @@
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or if you'd like to collaborate on exciting projects. I'm always open to new opportunities and eager to contribute to innovative projects.
 
-**Email**: [otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com)  
-**LinkedIn**: [Rufus Kehinde](https://www.linkedin.com/in/rufus-kehinde64)
+**Email**: [otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rufus-kehinde64)
 
   ## 💰 Love to help by Donating?
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/tech_wizard) 
