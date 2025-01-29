@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Otolorin Rufus Kehinde
-📧 **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:otolorinrufus64@gmail.com)  
-🌐 **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rufus-techwizard-portfolio.vercel.app)  
-💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufus-kehinde64)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:otolorinrufus64@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rufus-techwizard-portfolio.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufus-kehinde64)  
 
 
 # 💫 About Me:
