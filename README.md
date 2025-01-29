@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Otolorin Rufus Kehinde
-**Email**: [otolorinrufus64@gmail.com](mailto:otolorinrufus64@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rufus-kehinde64)
+📧 **Email**: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:otolorinrufus64@gmail.com)  
+🌐 **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rufus-techwizard-portfolio.vercel.app)  
+💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufus-kehinde64)  
+
 
 # 💫 About Me:
 🚀 A passionate Full Stack Software Engineer and IT Specialist<br><br>With over 6 years of experience, I specialize in developing and maintaining scalable web, mobile, and system applications. My expertise spans across IoT, automation, cybersecurity, and cutting-edge technologies. I am passionate about leveraging my skills to create innovative solutions that drive significant business growth.
