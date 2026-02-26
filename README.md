@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Otolorin Rufus Kehinde
+# 👋 Hi, I'm Otolorin Rufus K.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufus-kehinde64) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rufus-techwizard-portfolio.vercel.app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:otolorinrufus64@gmail.com)  
   
 
 
 
 # 💫 About Me:
-🚀 A passionate Full Stack Software Engineer and IT Specialist<br><br>With over 6 years of experience, I specialize in developing and maintaining scalable web, mobile, and system applications. My expertise spans across IoT, automation, cybersecurity, and cutting-edge technologies. I am passionate about leveraging my skills to create innovative solutions that drive significant business growth.
+A technology leader, full stack software and IT engineer witth over 7 years of experience developing scalable web, mobile, and system applications. Proven CTO level expertise in strategic technology planning, architecture design, and leading engineering teams to deliver innovative solutions. Expert in IoT and automation using Zigbee, LoRaWAN and MCUs. Proficient in AI, data analysis and visualization, and cybersecurity ensuring data protection and swift IT issue resolution. Accomplished leader and mentor, driving digital transformation, innovation, and productivity through modern development practices.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Rufus-Kehinde/pfbid0zdVnSh8kAZnokqQEMtGbCgFwzb9fBASUJYZ5DuFhdza8zSLTZeJtWVBiYrdB9SE2l/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rufus-kehinde64) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/D_Tech_Wizard) 
@@ -17,7 +17,7 @@
 - **Technology Stacks:** React, React Native, Laravel, DJango, CNN, WordPress, Remix, GraphQL, RESTful API, Squarespace
 - **Development Tools:** Figma, Git, GitHub, GitLab, Postman, Putty
 - **Cloud Platforms:** Azure, AWS, Google Console, Google Colab
-- **Database Management & Analysis:** MongoDB, MySQL, PostgreSQL.
+- **Database Management, Science, Analysis & Visualization:** MongoDB, MySQL, PostgreSQL, SQL, NoSQL, PowerBI, Excel, Tableau, SPSS.
 - **Operating Systems:** Linux, Windows, macOS
 - **Embedded Systems:** ESP32, Arduino, Raspberry Pi, MCU
 - **IT Networking:** Zigbee, Wi-Fi, LoRaWAN, BLE
