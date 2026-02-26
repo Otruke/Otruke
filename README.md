@@ -31,10 +31,12 @@ A technology leader, full stack software and IT engineer witth over 7 years of e
 
 ## 🌟 Expertise
 
-- Building top-notch **Web Applications**, **Mobile Applications**, and **System Software**
-- Proficient in **Cybersecurity** ensuring robust protection and swift issue resolution.
-- Expertise in **IoT** and **Automation** using Zigbee, LoRaWAN, and MCUs.
-- **Blockchain** development with a focus on secure, decentralized applications.
+- Designing and building scalable Web, Mobile, and System Software from concept to deployment
+- Strong IT Engineering & Infrastructure expertise: networking, server setup, cloud deployment, and system optimization
+- Proficient in data analysis, management & visualization using Python, SQL, Power BI, and Tableau to drive data-informed decisions
+- Expertise in IoT & Automation using Zigbee, LoRaWAN, BLE, and MCU-based embedded systems
+- Skilled in cybersecurity best practices for secure architectures and rapid incident resolution
+- Experience in blockchain development focused on secure and decentralized applications
 
 ## 📜 Certifications
 
