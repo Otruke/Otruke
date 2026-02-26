@@ -38,13 +38,15 @@
 
 ## 📜 Certifications
 
-- **Certified Open Source Intelligence (Level 2)**, EC-Council
-- **Certified Application Development** (C++, JavaScript, HTML, Python, CSS), Pirple
+- **Certified in Agile Project Management**, HP LIFE 
+- **Certified in Open Source Intelligence (Level 2)**, EC-Council
+- **Certified in Application Development** (C++, JavaScript, HTML, Python, CSS), Pirple
 - **Certified Microsoft Azure Fundamentals**, Microsoft
-- **Certified Data Analysis and Visualization** (MS Excel, Python, Power BI, Tableau), Mesuullogic Institute
-- **Certified Git and GitHub**, IBM SkillsBuild
+- **Certified in Data Analysis and Visualization** (MS Excel, Python, Power BI, Tableau), Mesuullogic Institute
+- **Certified in Data Science & Analytics**, HP LIFE
+- **Certified in Git and GitHub**, IBM SkillsBuild
 - **Certified ICT & Networking Specialist**, LIZZIEDEE Computer Institute
-- **Certified Cybersecurity Fundamentals**, CISCO
+- **Certified in Cybersecurity Fundamentals**, CISCO
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otruke&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
